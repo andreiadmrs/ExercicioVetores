@@ -1,0 +1,11 @@
+C:\Users\Andie\source\repos\exercicioVetores\exercicioVetores\bin\Debug\netcoreapp2.1\exercicioVetores.deps.json
+C:\Users\Andie\source\repos\exercicioVetores\exercicioVetores\bin\Debug\netcoreapp2.1\exercicioVetores.runtimeconfig.json
+C:\Users\Andie\source\repos\exercicioVetores\exercicioVetores\bin\Debug\netcoreapp2.1\exercicioVetores.runtimeconfig.dev.json
+C:\Users\Andie\source\repos\exercicioVetores\exercicioVetores\bin\Debug\netcoreapp2.1\exercicioVetores.dll
+C:\Users\Andie\source\repos\exercicioVetores\exercicioVetores\bin\Debug\netcoreapp2.1\exercicioVetores.pdb
+C:\Users\Andie\source\repos\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp2.1\exercicioVetores.csprojAssemblyReference.cache
+C:\Users\Andie\source\repos\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp2.1\exercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\Andie\source\repos\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp2.1\exercicioVetores.AssemblyInfoInputs.cache
+C:\Users\Andie\source\repos\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp2.1\exercicioVetores.AssemblyInfo.cs
+C:\Users\Andie\source\repos\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp2.1\exercicioVetores.dll
+C:\Users\Andie\source\repos\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp2.1\exercicioVetores.pdb
